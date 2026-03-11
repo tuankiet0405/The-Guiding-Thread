@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <!-- Concentric circles — orbital/constellation aesthetic -->
+  <circle cx="200" cy="200" r="40" stroke="currentColor" stroke-width="0.5" stroke-opacity="0.06"/>
+  <circle cx="200" cy="200" r="80" stroke="currentColor" stroke-width="0.5" stroke-opacity="0.06"/>
+  <circle cx="200" cy="200" r="120" stroke="currentColor" stroke-width="0.5" stroke-opacity="0.08"/>
+  <circle cx="200" cy="200" r="160" stroke="currentColor" stroke-width="0.5" stroke-opacity="0.05"/>
+  <circle cx="200" cy="200" r="200" stroke="currentColor" stroke-width="0.5" stroke-opacity="0.04"/>
+  <!-- Center dot -->
+  <circle cx="200" cy="200" r="2" fill="currentColor" fill-opacity="0.15"/>
+  <!-- Orbital markers -->
+  <circle cx="200" cy="80" r="1.5" fill="currentColor" fill-opacity="0.1"/>
+  <circle cx="320" cy="200" r="1.5" fill="currentColor" fill-opacity="0.1"/>
+  <circle cx="200" cy="360" r="1.5" fill="currentColor" fill-opacity="0.08"/>
+  <circle cx="40" cy="200" r="1.5" fill="currentColor" fill-opacity="0.08"/>
+</svg>
